@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -60,7 +60,7 @@
   <footer class="mastfoot mt-auto">
     <div class="inner">
       <div class="container">
-<nav id="bottomnav " class="navbar navbar-fixed-bottom navbar-light text-center">
+<nav id="bottomnav" class="navbar navbar-fixed-bottom navbar-light text-center">
 <a class="navbar-navigation" href="mailto:julioalmanza@outlook.com"><i class="fa fa-envelope-o fa-2x" aria-hidden="true"></i></a>
 <a id="imdb" class="navbar-navigation" href="http://www.imdb.com/name/nm8766399/"><i class="fa fa-imdb fa-2x" aria-hidden="true"></i>
 </a>

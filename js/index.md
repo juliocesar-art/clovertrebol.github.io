@@ -50,7 +50,7 @@
   </header>
 
   <main role="main" class="inner cover">
-    <h1 class="cover-heading">Julio Cesar 2024</h1>
+    <h1 class="cover-heading">@Julio_Cesar_2024</h1>
     <p class="lead">DICTATE FOR <b><i>YOU</i></b></p>
     <p class="lead">
       <a href="https://youtu.be/0bi1PvXCbr8?t=110" class="btn btn-lg btn-secondary"><i class="fas fa-crown fa-2x"><br/><del>Corona</del></i></a>
